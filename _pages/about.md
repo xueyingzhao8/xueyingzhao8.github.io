@@ -11,8 +11,8 @@ Hi! I am a Ph.D. candidate in Economics at the University of Warwick. My researc
 
 I am currently on the 2024/25 job market. Here is my [C.V.](../files/cv_xueying_zhao.pdf)
 
-Job Market Paper
-------
+## Job Market Paper
+
 [**"Tailoring Data for Profit"**](../files/tailoring_data_xueying_jmp.pdf)
 
  *Abstract: A data buyer, uncertain about a payoff-relevant state, has private information---a signal modeled as a finite partition of an expanded state space---that is only partially informative. A data seller, capable of generating arbitrarily correlated signals, aims to maximize revenue by selling an optimal menu of signals. We characterize the properties of this revenue-maximizing mechanism and demonstrate that, despite information asymmetry, first-best outcomes can still be achieved. Specifically, the seller can offer a supplemental signal tailored to each buyer type, priced at the buyer's willingness to pay, ensuring socially efficient full surplus extraction.* 
@@ -37,9 +37,8 @@ Teaching
 ------
 **University of Warwick**
 
-UG Statistical Techniques B (Spring 2021, Spring 2022)
-
-UG Mathematical Techniques B (Fall 2020, Fall 2021)
+* UG Statistical Techniques B (Spring 2021, Spring 2022)
+* UG Mathematical Techniques B (Fall 2020, Fall 2021)
 
 **Shanghai University of Finance and Economics**
 

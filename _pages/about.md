@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
@@ -29,9 +29,9 @@ Working Papers
 
 Work in Progress
 ------
-Think Different but Not Too Different
+"Think Different but Not Too Different"
 
-Signaling in Information Design
+"Signaling in Information Design"
 
 Teaching
 ------

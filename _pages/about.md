@@ -21,7 +21,7 @@ Abstract: A data buyer, uncertain about a payoff-relevant state, has private inf
 
 Working Papers
 ======
-[Contracting with Heterogeneous Beliefs]()
+[Contracting with Heterogeneous Beliefs](../files/heterogeneous_beliefs_xueying.pdf)
 
 We analyze the optimal design of incentive contracts in the presence of belief heterogeneity between a principal and an agent.
 

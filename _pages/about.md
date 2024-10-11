@@ -17,8 +17,8 @@ I am currently on the 2024/25 job market. Here is my [C.V.](../files/cv_xueying_
 
  *Abstract: A data buyer, uncertain about a payoff-relevant state, has private information---a signal modeled as a finite partition of an expanded state space---that is only partially informative. A data seller, capable of generating arbitrarily correlated signals, aims to maximize revenue by selling an optimal menu of signals. We characterize the properties of this revenue-maximizing mechanism and demonstrate that, despite information asymmetry, first-best outcomes can still be achieved. Specifically, the seller can offer a supplemental signal tailored to each buyer type, priced at the buyer's willingness to pay, ensuring socially efficient full surplus extraction.* 
 
-Working Papers
-------
+## Working Papers
+
 [**"Contracting with Heterogeneous Beliefs"**](../files/heterogeneous_beliefs_xueying.pdf)
 
  *We analyze the optimal design of incentive contracts in the context of belief heterogeneity between a principal and an agent.*
@@ -27,25 +27,24 @@ Working Papers
 
  *We explore whether and when it is optimal for a privately informed incumbent politician to engage in negative campaigning by disclosing a scandal about the challenger's corruption in order to persuade voters.*
 
-Work in Progress
-------
+## Work in Progress
+
 "Think Different but Not Too Different"
 
 "Signaling in Information Design"
 
-Teaching
-------
-**University of Warwick**
+## Teaching
 
-* UG Statistical Techniques B (Spring 2021, Spring 2022)
-* UG Mathematical Techniques B (Fall 2020, Fall 2021)
+* University of Warwick
 
-**Shanghai University of Finance and Economics**
+ * UG Statistical Techniques B (Spring 2021, Spring 2022)
+ * UG Mathematical Techniques B (Fall 2020, Fall 2021)
 
-MA Advanced Microeconomics I (Fall 2017)
+* **Shanghai University of Finance and Economics**
 
-MA Advanced Microeconomics II (Spring 2017)
+ * MA Advanced Microeconomics I (Fall 2017)
+ * MA Advanced Microeconomics II (Spring 2017)
 
-**Shandong University**
+* **Shandong University**
 
-UG Intermediate Microeconomics: Game Theory (Fall 2014)
+ * UG Intermediate Microeconomics: Game Theory (Fall 2014)

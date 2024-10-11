@@ -19,8 +19,12 @@ Job Market Paper
 
 Abstract: A data buyer, uncertain about a payoff-relevant state, has private information -- a signal modeled as a finite partition of an expanded state space -- that is only partially informative. A data seller, capable of generating arbitrarily correlated signals, aims to maximize revenue by selling an optimal menu of signals. We characterize the properties of this revenue-maximizing mechanism and demonstrate that, despite information asymmetry, the first-best outcomes can still be achieved. Specifically, the seller can offer a supplemental signal tailored to each buyer type, priced at the buyer's willingness to pay, ensuring socially efficient full surplus extraction. 
 
-Getting started
+Working Papers
 ======
+[Contracting with Heterogeneous Beliefs]()
+We analyze the optimal design of incentive contracts in the presence of belief heterogeneity between a principal and an agent.
+
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.

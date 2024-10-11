@@ -35,5 +35,18 @@ Work in Progress
 
 Teaching
 ------
+**University of Warwick**
 
+UG Statistical Techniques B (Spring 2021, Spring 2022)
 
+UG Mathematical Techniques B (Fall 2020, Fall 2021)
+
+**Shanghai University of Finance and Economics**
+
+MA Advanced Microeconomics I (Fall 2017)
+
+MA Advanced Microeconomics II (Spring 2017)
+
+**Shandong University**
+
+UG Intermediate Microeconomics: Game Theory (Fall 2014)

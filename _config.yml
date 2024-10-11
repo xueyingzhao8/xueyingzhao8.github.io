@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Xueying Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Here is my C.V."
+  bio              : # " "
   location         : # "Earth"
   employer         : #"Red Brick University"
   uri              : # URL

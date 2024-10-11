@@ -17,13 +17,13 @@ Job Market Paper
 ======
 ["Tailoring Data for Profit"](../files/tailoring_data_xueying_jmp.pdf)
 
-Abstract: A data buyer, uncertain about a payoff-relevant state, has private information -- a signal modeled as a finite partition of an expanded state space -- that is only partially informative. A data seller, capable of generating arbitrarily correlated signals, aims to maximize revenue by selling an optimal menu of signals. We characterize the properties of this revenue-maximizing mechanism and demonstrate that, despite information asymmetry, the first-best outcomes can still be achieved. Specifically, the seller can offer a supplemental signal tailored to each buyer type, priced at the buyer's willingness to pay, ensuring socially efficient full surplus extraction. 
+Abstract: A data buyer, uncertain about a payoff-relevant state, has private information --- a signal modeled as a finite partition of an expanded state space --- that is only partially informative. A data seller, capable of generating arbitrarily correlated signals, aims to maximize revenue by selling an optimal menu of signals. We characterize the properties of this revenue-maximizing mechanism and demonstrate that, despite information asymmetry, first-best outcomes can still be achieved. Specifically, the seller can offer a supplemental signal tailored to each buyer type, priced at the buyer's willingness to pay, ensuring socially efficient full surplus extraction. 
 
 Working Papers
 ======
 [Contracting with Heterogeneous Beliefs](../files/heterogeneous_beliefs_xueying.pdf)
 
-We analyze the optimal design of incentive contracts in the presence of belief heterogeneity between a principal and an agent.
+Abstract: We analyze the optimal design of incentive contracts in the presence of belief heterogeneity between a principal and an agent. The principal hires the agent to perform a task but cannot observe the agent's actions. Both parties may hold heterogeneous beliefs about the distribution of output realizations. We introduce an "implementation condition" under which the first-best outcomes from the full-information benchmark are attainable, despite the presence of information asymmetry. When this condition does not hold, the first-best contract can still be approximated. Additionally, we provide a rationale for the optimality of linear contracts when outputs are normally distributed, and the agent has constant absolute risk aversion preferences.
 
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)

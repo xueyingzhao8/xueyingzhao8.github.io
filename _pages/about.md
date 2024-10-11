@@ -1,19 +1,19 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at the University of Warwick. My research interests are microeconomic theory, information economics, and industrial organization.
+Hi! I am a Ph.D. candidate in Economics at the University of Warwick. My research interests are microeconomic theory, information economics, and industrial organization.
 
 I am currently on the 2024/25 job market.
 
 Job Market Paper
 ------
-["Tailoring Data for Profit"](../files/tailoring_data_xueying_jmp.pdf)
+[**"Tailoring Data for Profit"**](../files/tailoring_data_xueying_jmp.pdf)
 
 *Abstract: A data buyer, uncertain about a payoff-relevant state, has private information---a signal modeled as a finite partition of an expanded state space---that is only partially informative. A data seller, capable of generating arbitrarily correlated signals, aims to maximize revenue by selling an optimal menu of signals. We characterize the properties of this revenue-maximizing mechanism and demonstrate that, despite information asymmetry, first-best outcomes can still be achieved. Specifically, the seller can offer a supplemental signal tailored to each buyer type, priced at the buyer's willingness to pay, ensuring socially efficient full surplus extraction.* 
 
@@ -21,11 +21,11 @@ Working Papers
 ------
 [**"Contracting with Heterogeneous Beliefs"**](../files/heterogeneous_beliefs_xueying.pdf)
 
-*Abstract:* We analyze the optimal design of incentive contracts in the presence of belief heterogeneity between a principal and an agent. The principal hires the agent to perform a task but cannot observe the agent's actions. Both parties may hold heterogeneous beliefs about the distribution of output realizations. We introduce an "implementation condition" under which the first-best outcomes from the full-information benchmark are attainable, despite the presence of information asymmetry. When this condition does not hold, the first-best contract can still be approximated. Additionally, we provide a rationale for the optimality of linear contracts when outputs are normally distributed, and the agent has constant absolute risk aversion preferences.
+*Abstract: We analyze the optimal design of incentive contracts in the presence of belief heterogeneity between a principal and an agent. The principal hires the agent to perform a task but cannot observe the agent's actions. Both parties may hold heterogeneous beliefs about the distribution of output realizations. We introduce an "implementation condition" under which the first-best outcomes from the full-information benchmark are attainable, despite the presence of information asymmetry. When this condition does not hold, the first-best contract can still be approximated. Additionally, we provide a rationale for the optimality of linear contracts when outputs are normally distributed, and the agent has constant absolute risk aversion preferences.*
 
-"When to Go Negative in Political Campaigns?" (joint with [Sinem Hidir](https://warwick.ac.uk/fac/soc/economics/staff/shidir/)) 
+**"When to Go Negative in Political Campaigns?"** (joint with [Sinem Hidir](https://warwick.ac.uk/fac/soc/economics/staff/shidir/)) 
 
-*Abstract:* We consider a political competition in which a privately informed incumbent has the option to go negative---disclose a scandal---in their campaign against a challenger. The voter has uncertainty about two dimensions of attributes: ability and corruption of the challenger, and will receive an exogenous signal about ability before voting. We focus on the separating equilibrium in which the disadvantaged type goes negative and competes on the corruption dimension, while the advantaged type prefers to compete on the ability dimension. We show that the voter may be worse off by having a more precise signal about the challenger's ability, as this may lead to less information being revealed on the dimension controlled by the incumbent.
+*Abstract: We consider a political competition in which a privately informed incumbent has the option to go negative---disclose a scandal---in their campaign against a challenger. The voter has uncertainty about two dimensions of attributes: ability and corruption of the challenger, and will receive an exogenous signal about ability before voting. We focus on the separating equilibrium in which the disadvantaged type goes negative and competes on the corruption dimension, while the advantaged type prefers to compete on the ability dimension. We show that the voter may be worse off by having a more precise signal about the challenger's ability, as this may lead to less information being revealed on the dimension controlled by the incumbent.*
 
 
 

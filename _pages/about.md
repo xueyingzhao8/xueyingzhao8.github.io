@@ -35,16 +35,16 @@ I am currently on the 2024/25 job market. Here is my [C.V.](../files/cv_xueying_
 
 ## Teaching
 
-**University of Warwick**
+* University of Warwick
 
-* UG Statistical Techniques B (Spring 2021, Spring 2022)
-* UG Mathematical Techniques B (Fall 2020, Fall 2021)
+   * Statistical Techniques B (UG, Spring 2021, Spring 2022)
+   * Mathematical Techniques B (UG, Fall 2020, Fall 2021)
 
-**Shanghai University of Finance and Economics**
+* Shanghai University of Finance and Economics
 
-* MA Advanced Microeconomics I (Fall 2017)
-* MA Advanced Microeconomics II (Spring 2017)
+   * Advanced Microeconomics I (MA, Fall 2017)
+   * Advanced Microeconomics II (MA, Spring 2017)
 
-**Shandong University**
+* Shandong University
 
-* UG Intermediate Microeconomics: Game Theory (Fall 2014)
+   * Intermediate Microeconomics: Game Theory (UG, Fall 2014)

@@ -6,7 +6,7 @@
 
 main:
   - title: "Research"
-    url: "/#-working-papers"
+    url: "/##working-papers"
 
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/##teaching"

@@ -33,7 +33,7 @@ I am currently on the 2024/25 job market. Here is my [C.V.](../files/cv_xueying_
 
 "Signaling in Information Design"
 
-## Teaching
+## Teaching Experience
 
 * University of Warwick
    * Statistical Techniques B (UG, Spring 2021, Spring 2022)

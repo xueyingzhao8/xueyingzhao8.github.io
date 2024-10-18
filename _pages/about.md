@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D. candidate in Economics at the University of Warwick. My research interests are microeconomic theory, information economics, and industrial organization.
+Hi! I am a Ph.D. candidate in Economics at the University of Warwick. My research interests are microeconomic theory, information economics, and mechanism design.
 
 I am currently on the 2024/25 job market. Here is my [C.V.](../files/cv_xueying_zhao.pdf)
 

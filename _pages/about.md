@@ -21,7 +21,7 @@ I am currently on the 2024/25 job market. Here is my [C.V.](../files/cv_xueying_
 
 [**"Contracting with Heterogeneous Beliefs"**](../files/heterogeneous_beliefs_xueying.pdf)
 
-*We analyze the optimal design of incentive contracts in the context of belief heterogeneity between a principal and an agent.*
+*I analyze the optimal design of incentive contracts in the context of belief heterogeneity between a principal and an agent.*
 
 **"When to Go Negative in Political Campaigns?"** (joint with [Sinem Hidir](https://warwick.ac.uk/fac/soc/economics/staff/shidir/)) 
 
@@ -29,10 +29,13 @@ I am currently on the 2024/25 job market. Here is my [C.V.](../files/cv_xueying_
 
 ## Work in Progress
 
-"Think Different but Not Too Different"
+**"Think Different but Not Too Different"**
 
-"Signaling in Information Design"
+*This paper demonstrates that trade driven by differing beliefs is increasingly likely to be mutually detrimental as these differences grow.*
+  
+**"Signaling in Information Design"**
 
+*I explore the equilibrium design of experiments in settings with two-dimensional uncertainty.*
 ## Teaching Experience
 
 * University of Warwick

@@ -23,7 +23,7 @@ I am currently on the 2024/25 job market. Here is my [C.V.](../files/cv_xueying_
 
 *I analyze the optimal design of incentive contracts in the context of belief heterogeneity between a principal and an agent.*
 
-**"When to Go Negative in Political Campaigns?"** (joint with [Sinem Hidir](https://warwick.ac.uk/fac/soc/economics/staff/shidir/)) 
+[**"When to Go Negative in Political Campaigns?"**](../files/go_negative_xueying.pdf) (joint with [Sinem Hidir](https://warwick.ac.uk/fac/soc/economics/staff/shidir/)) 
 
 *We explore whether and when it is optimal for a privately informed incumbent politician to engage in negative campaigning by disclosing a scandal about the challenger's corruption in order to persuade voters.*
 

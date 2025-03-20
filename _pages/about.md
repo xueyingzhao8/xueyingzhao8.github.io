@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D. candidate in Economics at the University of Warwick. My research interests focus on Microeconomic Theory, Information Economics, and Mechanism Design. My work has theoretical implications in areas such as Industrial Organization, Political Economy, and Behavioral Economics.
+Hi! I am a Ph.D. candidate in Economics at the University of Warwick. My research interests focus on Information Economics, Mechanism Design, and Industrial Organization, examining the interplay of information, beliefs, and incentives in strategic settings.
 
 I am currently on the 2024/25 job market. Here is my [C.V.](../files/cv_xueying_zhao.pdf)
 
@@ -15,7 +15,7 @@ I am currently on the 2024/25 job market. Here is my [C.V.](../files/cv_xueying_
 
 [**"Tailoring Data for Profit"**](../files/tailoring_data_xueying_jmp.pdf)
 
-*This paper develops a framework to analyze the optimal sale of information. A data buyer, facing a decision problem under uncertainty, initially has access to an information structure that is private to him and determines his willingness to pay for any additional information. A monopolistic data seller, capable of designing tailored information structures, seeks to maximize revenue. Compared to Bergemann, Bonatti, and Smolin (2018), the novelty of this paper lies in two key features: (i) the type space consists of various information structures, and (ii) correlations are allowed between the data buyer's initial information and the additional information offered by the data seller. The main result demonstrates that, in a large class of cases, the data seller can design and price information within a mechanism to fully extract the first-best surplus. Specifically, full surplus extraction is achievable when each lower-type buyer's willingness to pay for information that fully supplements their initial information is weakly higher than that of all higher types.* 
+*I develop a theoretical framework to analyze the optimal sale of information products in the digital economy. A data buyer initially has access to a private information structure that provides partial information about a payoff-relevant state. The buyer's initial information determines their willingness to pay for additional data. A monopolistic data seller, capable of generating information structures that may correlate with the buyer's initial information, seeks to maximize revenue. The key findings demonstrate that the seller can extract the first-best surplus and achieve social efficiency by offering customized supplemental information products tailored to different buyer types. In particular, the seller can implement first-degree price discrimination by strategically leveraging data correlations. Compared to Bergemann, Bonatti, and Smolin (2018), the novelty of my work lies in two key aspects: (i) the type space consists of various information structures, and (ii) correlations are allowed between the data buyer's initial information structure and the additional information offered by the seller.* 
 
 ## Working Papers
 
@@ -25,7 +25,7 @@ I am currently on the 2024/25 job market. Here is my [C.V.](../files/cv_xueying_
 
 [**"When to Go Negative in Political Campaigns?"**](../files/go_negative_xueying.pdf) (joint with [Sinem Hidir](https://warwick.ac.uk/fac/soc/economics/staff/shidir/)) 
 
-*We explore whether and when it is optimal for a privately informed incumbent politician to engage in negative campaigning by disclosing a scandal about the challenger's corruption in order to persuade voters.*
+*We explore whether and when it is optimal for a privately informed incumbent politician to engage in negative campaigning by disclosing a scandal about the challenger's corruption to persuade voters.*
 
 ## Work in Progress
 

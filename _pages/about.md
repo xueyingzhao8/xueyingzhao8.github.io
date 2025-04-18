@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D. candidate in Economics at the University of Warwick, specializing in Information Economics, Mechanism Design, and Industrial Organization. My research investigates the interplay of information, beliefs, and incentives in strategic settings. Here is my [C.V.](../files/cv_xueying_zhao.pdf)
+Hi! I am a Ph.D. candidate in Economics at the University of Warwick, specializing in Information Economics, Mechanism Design, and Industrial Organization. My research investigates the interplay of information, beliefs, and incentives in strategic settings. 
+
+My [C.V.](../files/cv_xueying_zhao.pdf)
+
+Email: xueyingzhao8 (at) gmail (dot) com
 
 ## Job Market Paper
 

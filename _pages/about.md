@@ -7,19 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D. candidate in Economics at the University of Warwick, specializing in Information Economics, Mechanism Design, and Industrial Organization. My research investigates the interplay of information, beliefs, and incentives in strategic settings. 
+Welcome!
 
-My [C.V.](../files/cv_xueying_zhao.pdf)
+I am a Postdoctoral Researcher at the [Frankfurt School Blockchain Center](https://www.frankfurt-school.de/en/home/research/centres/blockchain) ([Frankfurt School of Finance and Management](https://www.frankfurt-school.de/en/home)).
 
-Email: xueyingzhao8 (at) gmail (dot) com
+I received my Ph.D. in Economics from the University of Warwick in 2025.
 
-## Job Market Paper
+My research interests lie in Information Economics, Mechanism Design, and Industrial Organisation.
+
+Here is my [C.V.](../files/cv_xueying_zhao.pdf)
+
+Email: x.zhao (at) fs (dot) de
+
+## Working Papers
 
 [**"Tailoring Data for Profit"**](../files/tailoring_data_xueying_jmp.pdf)
 
-*I develop a theoretical framework to analyze the optimal sale of information products in the digital economy. A data buyer initially has access to a private information structure that provides partial information about a payoff-relevant state. The buyer's initial information determines their willingness to pay for additional data, creating information asymmetry that poses challenges for a monopolist data seller aiming to maximize revenue. My main findings show that the seller can extract the first-best surplus and achieve social efficiency by offering customized supplemental information products tailored to different buyer types. Specifically, the seller can implement first-degree price discrimination by strategically leveraging data correlations. Compared to Bergemann, Bonatti, and Smolin (2018), the novelty of my work lies in two key aspects: (i) the type space consists of various information structures, and (ii) correlations are allowed between the data buyer's initial information structure and the additional information offered by the seller.* 
-
-## Working Papers
+*I develop a theoretical framework to analyze the optimal sale of information products in the digital economy. A data buyer initially has access to a private information structure that provides partial information about a payoff-relevant state. The buyer's initial information determines their willingness to pay for additional data, creating information asymmetry that poses challenges for a monopolist data seller aiming to maximize revenue. My main findings show that the seller can extract the first-best surplus and achieve social efficiency by offering customized supplemental information products tailored to different buyer types. Specifically, the seller can implement first-degree price discrimination by strategically leveraging data correlations. Compared to Bergemann, Bonatti, and Smolin (2018), the novelty of my work lies in two key aspects: (i) the type space consists of various information structures, and (ii) correlations are allowed between the data buyer's initial information structure and the additional information offered by the seller.*
 
 [**"Contracting with Heterogeneous Beliefs"**](../files/heterogeneous_beliefs_xueying.pdf)
 

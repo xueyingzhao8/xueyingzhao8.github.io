@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!
 
-I am a Postdoctoral Researcher at the [Frankfurt School Blockchain Center](https://www.frankfurt-school.de/en/home/research/centres/blockchain) ([Frankfurt School of Finance and Management](https://www.frankfurt-school.de/en/home)).
+I am a Postdoctoral Researcher at the ([Frankfurt School Center for Digital Economics](https://www.frankfurt-school.de/en/research-and-faculty/research-centres/centre-for-digital-economics)) ([Frankfurt School of Finance and Management](https://www.frankfurt-school.de/en/home)).
 
 I received my Ph.D. in Economics from the University of Warwick in 2025.
 
